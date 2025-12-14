@@ -1,0 +1,17 @@
+{
+  "name": "Endroid V- Store",
+  "short_name": "V- Store",
+  "description": "Revanced Store by Endroid. Download verified releases of Revanced Patched apps.",
+  "start_url": "/Store/",
+  "scope": "/Store/",
+  "display": "standalone",
+  "background_color": "#FEF7FF",
+  "theme_color": "#6750A4",
+  "icons": [
+    {
+      "src": "/Base64/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ]
+}
